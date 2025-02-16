@@ -3,7 +3,7 @@ export const portfolioCard = [
         id:1,
         img:"src/assets/chezuba.png",
         title:"Chezuba",
-        description:"Helped in getting many clients by designing the website and some Graphic Designs. Working in a San Francisco based company helped me in gaining a great skillset.",
+        description:"Played a key role in attracting clients by designing a website and creating impactful graphic designs. Working with a San Francisco-based company gave me hands-on experience and helped me refine my skills in web design, branding, and visual storytelling.",
         link:"https://www.chezuba.com/"
        
     },
@@ -19,7 +19,7 @@ export const portfolioCard = [
         id:3,
         img:"src/assets/graphicdesign.png",
         title:"Graphic Design",
-        description:"Creating visually engaging designs that communicate ideas effectively, enhance brand identity, and leave a lasting impression. Eager to See, learn and Design.",
+        description:"Creating visually engaging designs that communicate ideas effectively, enhance brand identity, and leave a lasting impression. Eager to See, Learn and Design.",
         link:"/Jithendra-Portfolio/graphic-designs"
     },
 ]

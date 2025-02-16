@@ -2,7 +2,7 @@ import prototype from "../assets/prototype.png";
 
 const CaseStudyPrototype = () => {
   return (
-    <div className="bg-[#DDEBFF] py-20 px-4 md:px-40">
+    <div className="bg-[#DDEBFF] py-20 px-4 md:px-40 flex justify-center">
         <img src={prototype} alt="prototype" />
     </div>
   );

@@ -2,7 +2,7 @@ const CaseStudyFooter = () => {
   return (
     <div className="py-20 px-4 md:px-40 bg-[#E8F5FF]">
       <h2 className="text-2xl custom-class-space-grotesk font-bold">
-        StudentConnect taught me
+        What StudentConnect taught me?
       </h2>
       <br />
       <div className="font-[Rubik] font-light text-justify grid grid-cols-1 md:grid-cols-2 md:gap-20">

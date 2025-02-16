@@ -51,7 +51,7 @@ const UIUX = () => {
   return (
     <div className="stack-area px-20 w-full h-[300vh] md:h-[300vh] relative flex flex-col lg:flex-row bg-[url('/src/assets/uiuxbg.jpg')] bg-cover bg-center bg-no-repeat">
       <div className="text-white custom-class-space-grotesk pt-10 opacity-50 hover:opacity-100">
-        <Logo text="← home" />
+        <Logo text="← Home" />
       </div>
       <div className="right h-screen lg:flex-[60%] sticky top-0">
         <div className="card absolute top-[50%] left-[50%] w-[90%] lg:w-[600px] h-auto rounded-2xl transform -translate-x-[50%] -translate-y-[50%] transition-all ease-in-out duration-500">
@@ -111,7 +111,7 @@ const UIUX = () => {
 
       <div className="hidden md:pl-35 md:left h-screen md:flex-[40%] md:sticky md:top-0 md:left-0 md:flex md:items-center md:justify-center md:flex-col md:box-border">
         <div className="title text-[84px] font-poppins font-bold leading-[88px] w-[420px] text-white">
-          UI/UX Desings
+          UI/UX Designs
         </div>
         <div className="sub-title text-[14px] font-poppins w-[420px] mt-8 text-white">
           By doing these personal and client projects helped me to gain valuable
